@@ -4,10 +4,17 @@
     <title>Micro-Influencer &amp; Creator Economy Hub</title>
     <link>https://creator-economy-influencers-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://creator-economy-influencers-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                <item>
+                                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/blender 3D Modeling Community (Reddit)</title>
+      <link>https://www.reddit.com/r/blender/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/creator-economy-influencers-hub/#creator-economy-influencers-hub-reddit-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:06:04 GMT</pubDate>
+      <description>Newly verified community added to Micro-Influencer &amp; Creator Economy Hub: Showcases, geometry nodes breakdowns, shader networks, and animation renders created with Blender 3D.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/gamedev Developers Network (Reddit)</title>
       <link>https://www.reddit.com/r/gamedev/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/creator-economy-influencers-hub/#creator-economy-influencers-hub-reddit-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/creator-economy-influencers-hub/#creator-economy-influencers-hub-forum-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:05:38 GMT</pubDate>
       <description>Newly verified community added to Micro-Influencer &amp; Creator Economy Hub: Transparent revenue shares, founder interviews, and practical guides for bootstrapping profitable online businesses.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Product Hunt Community (Forum)</title>
-      <link>https://www.producthunt.com</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/creator-economy-influencers-hub/#creator-economy-influencers-hub-forum-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:05:39 GMT</pubDate>
-      <description>Newly verified community added to Micro-Influencer &amp; Creator Economy Hub: The best place to discover innovative tech products daily, connect with makers, and collect user feedback.</description>
     </item>
   </channel>
 </rss>
